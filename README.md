@@ -17,6 +17,22 @@ MS-SCRIPTS: https://discord.gg/BCrFN5QDZu
   - Walking injured
   - K.O
 
++ Modify NPC density
+  - You can remove factional NPCs
+  - You can decrease or increase the generation of NPCs.
+  
++ RichPresence
+  - Server name
+  - Number of online players
+  - Time played
+ 
++ ShowId
+  - Use the /verids command to see the id of nearby players
+  - You can customise the command 
+ 
++ Teleports
+  - You can add points on the map to move from one place to another
+
 
 ## How to install ms-utils?
 
